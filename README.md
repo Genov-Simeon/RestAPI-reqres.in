@@ -1,2 +1,0 @@
-# ENDAVA
-# RestAPI-reqres.in
